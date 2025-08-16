@@ -1,4 +1,4 @@
-**COVID-19 Spread Rate Forecast **
+COVID-19 Spread Rate Forecast 
 
 Target objectives
 
